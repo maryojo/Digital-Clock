@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(36, 36, 36);
+}
+.display{
+   color: burlywood;
+    width: 500px;
+    height: 200px;
+    margin: 15%;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    letter-spacing: 7px;
+}
